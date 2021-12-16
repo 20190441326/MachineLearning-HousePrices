@@ -13,6 +13,6 @@ Here are five files：
 
 "sample_submission.csv" - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
-"Predict_sales_prices.ipynb" - run code
+"Predict_sales_prices.ipynb" OR "HouseCode.py"- run code
 
 "submission.csv" - a  submission from code running
