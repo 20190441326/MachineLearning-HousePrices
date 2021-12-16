@@ -3,7 +3,7 @@
 
 House Prices - Advanced Regression Techniques--Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
-Here are five files：
+Here are seven files：
 
 "train.csv" - the training set
 
